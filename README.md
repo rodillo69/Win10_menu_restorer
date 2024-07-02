@@ -1,4 +1,4 @@
-# Restaurador de Menú Contextual de Windows 10
+# Windows10 menu restorer
 
 ### Desarrollado por Rodillo Systems
 
