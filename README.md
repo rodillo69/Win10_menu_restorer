@@ -9,12 +9,10 @@ Este proyecto proporciona una herramienta que permite cambiar el menú contextua
 - Restaurar el menú contextual de Windows 10 en Windows 11.
 - Restaurar el menú contextual de Windows 11.
 - Comprobación de permisos de administrador antes de ejecutar las operaciones.
-- Mensajes e interfaz amigables.
-- Icono personalizado para el ejecutable.
 
 ## Requisitos
 
-- Windows 10 o Windows 11
+- Windows 11
 
 ## Instalación
 
@@ -38,14 +36,3 @@ Este proyecto proporciona una herramienta que permite cambiar el menú contextua
      2. Restaurar menú contextual de Windows 11.
      3. Salir.
    - Ingresa el número de la opción deseada y presiona Enter.
-
-### Conversión del Script a .exe (Para Desarrolladores)
-
-Si deseas convertir el script de PowerShell a un archivo .exe por tu cuenta:
-
-1. **Instalar PS2EXE-GUI**
-
-   Abre PowerShell con permisos de administrador y ejecuta:
-
-   ```powershell
-   Install-Module -Name PS2EXE -Scope CurrentUser -AllowClobber
